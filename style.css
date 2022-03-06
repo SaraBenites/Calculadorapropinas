@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(201, 201, 201);
+    
+}   
+    #borde{
+    border: 5px solid #26292b;
+    width: 300px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+    #borde{
+    background-color: rgb(219, 185, 185);
+    padding-left: 45px;
+    padding-top: 20PX ;
+    padding-bottom: 45px;
+    padding-right: 45px;
+
+ }
+ 
+ #titulo{
+    background-color: #5fa6d7;
+    font-weight: bold;
+    font-size: 12pt;
+    padding: 20px 20px 30px;
+   
+ }
+ #cuenta{
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 70px 30px 40px;
+    background-color: #ffffcc;
+ }
+
+ 
